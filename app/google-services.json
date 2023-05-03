@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "765441849037",
-    "project_id": "clone-38885",
-    "storage_bucket": "clone-38885.appspot.com"
+    "project_number": "88594815458",
+    "project_id": "cloneproject-385413",
+    "storage_bucket": "cloneproject-385413.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:765441849037:android:4cc214a6392d791d135b84",
+        "mobilesdk_app_id": "1:88594815458:android:21d0124bd5836dbaa101bb",
         "android_client_info": {
-          "package_name": "com.example.clone"
+          "package_name": "com.example.clonee"
         }
       },
       "oauth_client": [
         {
-          "client_id": "765441849037-chc1hbd1vrk7t0j923qq8luvg34civ8j.apps.googleusercontent.com",
+          "client_id": "88594815458-f77t09h6761fsdvda01d8i4edjgf46fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clonee",
+            "certificate_hash": "3bcd11929f982c81aa54748be4fc53c1c7640e24"
+          }
+        },
+        {
+          "client_id": "88594815458-8p3bd6bk8pu69e2a8079rm1d4u6rkbnf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC-fgTgclmyG0-wNqzz5f5f_oFsfFuT1l0"
+          "current_key": "AIzaSyAPmVij8uw9SnuSH_9Fbu0IJjqBCsX5nng"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "765441849037-chc1hbd1vrk7t0j923qq8luvg34civ8j.apps.googleusercontent.com",
+              "client_id": "88594815458-8p3bd6bk8pu69e2a8079rm1d4u6rkbnf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

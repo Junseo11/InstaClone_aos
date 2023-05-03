@@ -1,4 +1,4 @@
-package com.example.clone
+package com.example.clonee
 
 import org.junit.Test
 
